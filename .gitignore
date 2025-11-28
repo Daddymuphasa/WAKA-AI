@@ -53,7 +53,7 @@ serviceAccountKey.json
 private-keys/
 
 # AI models (if cached locally)
-models/
+# models/
 *.onnx
 *.pkl
 
